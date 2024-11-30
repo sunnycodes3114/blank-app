@@ -5,4 +5,4 @@ torchvision
 numpy
 opencv-python
 Pillow
-git+https://github.com/facebookresearch/detectron2.git
+git+https://github.com/facebookresearch/detectron2.git --no-build-isolation
