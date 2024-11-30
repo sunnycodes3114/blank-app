@@ -1,10 +1,8 @@
-# Install PyTorch first
+streamlit
 torch
 torchvision
-
-# Other dependencies
-streamlit==1.40.2
-requests==2.31.0
-numpy==1.25.0
-opencv-python-headless==4.8.1.78
-Pillow==11.0.0
+opencv-python-headless
+Pillow
+numpy
+requests
+git+https://github.com/facebookresearch/detectron2.git
